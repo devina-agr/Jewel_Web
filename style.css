@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(186, 194, 201);
+    background-color: #bac2c9;
 }
 .head{
     background-color: #4B4E6D;
@@ -89,7 +89,7 @@
     }
 .footer{
     background-color:#4B4E6D;
-    height: 200px;
+    height: 150px;
     margin: 0px;
     padding: 0px;
     color: aliceblue;
@@ -102,4 +102,10 @@
 }
 .FAQ{
     margin-left: 20px;
+}
+.con{
+    background-color: transparent;
+    display: flex;
+    justify-content:center;
+    margin-top: 50px;
 }
